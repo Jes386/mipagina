@@ -55,7 +55,7 @@ body {
   min-height: 70vh;
   display: flex;
   align-items: center;
-  background: url("https://res.cloudinary.com/daanrjgqo/image/upload/v1777259227/fondo1_w2ml4i.jpg") no-repeat center;
+  background: url("fondo1.jpg") no-repeat center;
   background-size: 150%;
   position: relative;
 }
